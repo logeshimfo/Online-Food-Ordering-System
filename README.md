@@ -1,2 +1,17 @@
-# Online-Food-Ordering-System
--- Online-Food-Ordering is built with HTML, CSS, JavaScript, and PHP. This contain three panel Admin panel, User panel, and Delivery-Boy panel.
+# Online-Food-Ordering
+
+
+## 🛠️Technologies used
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+
+---
+
+
+## Contact
+
+- **Name 👨‍💻:** [Logesh Waran](https://github.com/logeshimfo)
+- **Email 📧:** [logeshsharma8171@gmail.com](mailto:logeshsharma8171@gmail.com)
